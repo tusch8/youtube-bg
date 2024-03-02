@@ -5,4 +5,4 @@ YouTubeを背景動画にする
 ページ表示時、自動再生される背景動画
 
 ## デモ
-https://inaro8.github.io/youtube-bg/
+https://tusch8.github.io/youtube-bg/
